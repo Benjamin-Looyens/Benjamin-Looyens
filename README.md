@@ -6,3 +6,4 @@ My personal commit naming standards:
 - `chore` : Mundane addition to code (eg: adding scene information, comments, internal organization, etc)
 - `lib` : Adding or removing external libraries
 - `file` : Adding or removing of resource files
+- `perf` : Code with same behavior, but optimized for better performance
