@@ -7,4 +7,5 @@ My personal commit naming standards:
 - `lib` : Adding or removing external libraries
 - `file` : Adding or removing of resource files
 - `perf` : Code with same behavior, but optimized for better performance
+- `org` : Change in project organization (changing directory structure, etc)
 - `[x]/[y]` : Combination of any of the previous standards in the place of [x] and [y]
